@@ -2,6 +2,8 @@
 
 ## Regression Summative Project
 
+Data is retrieved from: https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data
+
 $R^2$ score for different regression models:
   - Decision Tree Regression: -0.09937831917148121
   - Multiple Linear Regression: 0.6506243222334223
