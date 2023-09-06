@@ -25,3 +25,9 @@ Accuracy score for different classification models:
 - Naive Bayes: 0.68333333333333330
 - Support Vector Machine: 0.9
 - Random Forest Classification: 0.9833333333333333
+
+As classification problem is completely different from regression, where we do not need to predict the next data point based on the information learned from previous datapoints, $R^2$ scores would not be an accurate indicator of the model performance. 
+
+Hence, we are going to use the accuracy_score metric offered by sklearn, which would be a more accurate measurement. 
+
+From the list shown above, it is obvious that Decision Tree Classfication, K-Nearest Neighbours and Random Forest outperformed other classfication models, with the accuracy scores of 0.9666666666666667, 0.9333333333333333 and 0.9833333333333333. Out of the three, Random Forest Classfication appears to be the most accurate model, with an accuracy score of 0.9833333333333333. This implies that approximately 98% of the model's prediction is correct, which is extremely impressive. 
