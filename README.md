@@ -2,6 +2,8 @@
 
 ## Regression Summative Project
 
+<strong>Objective: </strong> Create a robust machine learning model that could predict the price of a house in Boston based on several different features, such as crime rates, number of rooms, house age, ...
+
 Data is retrieved from: https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data
 
 $R^2$ score for different regression models:
@@ -14,6 +16,8 @@ $R^2$ score for different regression models:
 It is obvious that the Random Forest Regression model out-performed the other models with an $R^2$ score of approximately 80%. This implies that approximately 80% of the dependent variable is explained by the independent variable
 
 ## Classification Summative Project
+
+<strong>Objective: </strong> Create a robust machine learning model that could classify which kind of drug fits with a patient, given the patient's sex, cholesterol and blood pressure level, ...
 
 Data is retrieved from: https://www.kaggle.com/datasets/prathamtripathi/drug-classification
 
@@ -34,7 +38,9 @@ From the list shown above, it is obvious that Decision Tree Classfication, K-Nea
 
 ## Clustering Summative Project
 
- Data is retrieved from: https://www.kaggle.com/datasets/dev0914sharma/customer-clustering
+<strong>Objective: </strong> Create a robust machine learning model that could divide the customer population into separate clusters, which would help to offer insights for the marketing team. The features used for the model includes: Customer's sex, age, marital status, ...
+
+Data is retrieved from: https://www.kaggle.com/datasets/dev0914sharma/customer-clustering
 
 Since this is a clustering problem, we couldn't use a metric to evaluate the model. However, we could visualize the clusters.
 
