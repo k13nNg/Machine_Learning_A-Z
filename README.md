@@ -1,4 +1,4 @@
-# Machine_Learning_A-Z_Learning_Code
+# Machine_Learning_A-Z
 
 ## Regression Summative Project
 
